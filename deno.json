@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "proxy": "https://den.ooo/proxy@v1.3.0/mod.ts"
+  },
+  "tasks": {
+    "start": "deno run -A main.ts"
+  },
+  "lock": false
+}
